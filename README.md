@@ -27,8 +27,9 @@ This repository (will contain) instructions for accessing a linux server I have 
   -Create a new user named catalog that has limited permissions to your catalog application database
 * Install git, clone and setup Catalog App project so that it functions correctly when visiting server's IP address in a browser.
 
-* Addl installed software:
-  -finger
+### Additional installed software:
+* finger
+
 ##References:
 * Course materials for Udacity's [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299).
 * http://askubuntu.com/questions/7477/how-can-i-add-a-new-user-as-sudoer-using-the-command-line
